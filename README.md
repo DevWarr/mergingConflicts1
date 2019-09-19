@@ -1,10 +1,10 @@
-# mergeConflictsPractice
-Testing various things to look at merge conflicts
+# Merge Conflict Tester
 
-# Build Week project
+This is the project Merge Conflict Tester, designed to help show the process of finding and fixing merge conflicts .
 
-## Information
+## Team
 
-Here you can see we have three developers: Mark, John, and Joanna
-
-## End
+Our Team members:
+* Mark - Project Lead
+* John - Front-end developer
+* Joanna - Back-end developer
