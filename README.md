@@ -6,5 +6,6 @@ This is the project Merge Conflict Tester, designed to help show the process of 
 ## Team
 
 Our Team members:
-* John
-* 
+* Mark - Project Lead
+* John - Front-end developer
+* Joanna - Back-end developer
